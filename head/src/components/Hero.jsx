@@ -7,7 +7,7 @@ const Hero = ()  => {
   return(
     <section className="flex items-center justify-around p-10 space-x-10 font-serif text-white lg:flex-row ssm:flex-col ssm:space-y-10">
         <div className="lg:w-1/3 ssm:w-fit">
-        <p className="mb-1 text-6xl">I`m</p>
+        <p className="mb-1 text-6xl">I'm</p>
         <h1 className="font-serif text-6xl ">Omoyeni Kolawole</h1>
         <hr/>
         <p className="mt-8 font-serif text-3xl text-center">Frontend web developer </p>
